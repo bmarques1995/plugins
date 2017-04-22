@@ -17,5 +17,5 @@ The present function receive four values as parameter, respectively:
 * requisition response function
 * server package arguments
 * Note 1: It´s free for usage.
-* Note 2: If you are more experient, send me the bug corrections, if necessary.
+* Note 2: If you are more experient,should you send me the bug corrections, if´s necessary?
 * Note 3: The error log language is portuguese.
