@@ -10,8 +10,8 @@ A função presente recebe como parâmetro quatro valores, respectivamente:
 * Obs 3: O idioma de exibição de erros é português
 
 # Ajax(en-us)
-The file only contains the ajax plugin, what lets it really quick and light, since its has only one usage.
-The present function receive four values as parameter, respectively:
+The file only contains the ajax plugin, what lets it really quicker and lighter, since it has only one usage.
+The present function receives four values as parameter, respectively:
 * requisition URL
 * input method(GET(corresponding to send 0)/POST(corresponding to send 1))
 * requisition response function
