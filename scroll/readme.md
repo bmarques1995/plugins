@@ -5,5 +5,5 @@ recomenda-se que todos os eventos e atributos estejam na tag "body"
 
 # scroll (en-us)
 Scroll HTML pages function.
-Don´t receive parameters, but use the "onmousewheel" listener, it´s used when the CSS "overflow-Y: hidden" is applied,
+Doesn´t receive parameters, but use the "onmousewheel" listener, it´s used when the CSS "overflow-Y: hidden" is applied,
 I reccomend use the attributes and events in the "body" tag
