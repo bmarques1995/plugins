@@ -4,4 +4,4 @@ Conjunto de plugins e bibliotecas que desenvolvi para minhas necessidade.(variad
 
 # plugins (en-us)
 Plugins repository.
-A set of plugins and libraries that I developed for my personal usage.(miltiple languages)
+A set of plugins and libraries that I've developed for my personal usage.(miltiple languages)
